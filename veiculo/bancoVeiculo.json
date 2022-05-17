@@ -1,0 +1,12 @@
+{
+    "tzr": {
+        "placa": "tzr",
+        "motorista": "Hugo",
+        "tipoVeiculo": "Moto"
+    },
+    "tzr1": {
+        "placa": "tzr1",
+        "motorista": "",
+        "tipoVeiculo": "Moto"
+    }
+}
